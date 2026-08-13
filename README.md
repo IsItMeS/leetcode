@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1816-truncate-sentence) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [3701-compute-alternating-sum](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0605-can-place-flowers) |
+## String
+|  |
+| ------- |
+| [1816-truncate-sentence](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1816-truncate-sentence) |
 <!---LeetCode Topics End-->
