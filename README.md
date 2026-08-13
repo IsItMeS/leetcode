@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0283-move-zeroes) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
