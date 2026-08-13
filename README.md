@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0605-can-place-flowers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0289-game-of-life) |
 | [3701-compute-alternating-sum](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Greedy
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
