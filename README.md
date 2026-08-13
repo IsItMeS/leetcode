@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3701-compute-alternating-sum](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
