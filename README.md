@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -59,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
