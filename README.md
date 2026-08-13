@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -182,10 +183,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
