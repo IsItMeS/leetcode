@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1816-truncate-sentence) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [3701-compute-alternating-sum](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3895-count-digit-appearances](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
+| [3895-count-digit-appearances](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |
