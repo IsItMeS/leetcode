@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0605-can-place-flowers) |
+| [0977-squares-of-a-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
