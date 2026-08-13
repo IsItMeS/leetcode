@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
