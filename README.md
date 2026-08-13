@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0383-ransom-note) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0796-rotate-string) |
