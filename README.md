@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0414-third-maximum-number) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0796-rotate-string) |
