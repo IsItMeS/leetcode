@@ -3,10 +3,8 @@ private:
     struct Node {
         int val;
         Node* next;
-        Node* prev;
         Node (int x){
             val =x;
-            prev = nullptr;
             next = nullptr;
         }
     }; 
@@ -23,7 +21,7 @@ public:
     int get(int index) {
         if( index<0 || index >= size)
         return -1;
-        Node* curr= head;
+        Node* curr = head;
         for ( int i = 0;i<index; i++)
         {
             curr = curr->next;
@@ -39,7 +37,6 @@ public:
         }
         else {
             newNode->next = head;
-            head->prev = newNode;
             head = newNode;
         }
         size++;
@@ -53,14 +50,12 @@ public:
         }
         else {
             tail->next = newNode;
-            newNode->prev = tail;
             tail = newNode;
         }
         size++;
     }
     
     void addAtIndex(int index, int val) {
-        Node* newNode = new Node(val);
         if (index < 0 || index > size) {
             return;
         }
@@ -72,15 +67,15 @@ public:
             addAtTail(val);
             return;
         }
+        Node* newNode = new Node(val);
         Node* curr = head;
-        for (int i = 0; i < index; i++) {
+        for (int i = 0; i < index-1; i++) {
             curr = curr->next;
         }
-        newNode->prev = curr->prev;
-        newNode->next = curr;
-        curr->prev->next = newNode;
-        curr->prev = newNode;
+        newNode->next=curr->next;
+        curr->next=newNode;
         size++;
+        return;
     }
     
     void deleteAtIndex(int index) {
@@ -89,28 +84,30 @@ public:
         }
         if (index == 0) {
             head = head->next;
-            if (head != nullptr) {
-                head->prev = nullptr;
-            }
-            else {
+            if ( head == nullptr)
+            {
                 tail = nullptr;
             }
             size--;
             return;
         }
         else if (index == size - 1) {
-            tail = tail->prev;
-            tail->next = nullptr;
+            Node* curr = head;
+            for (int i = 0; i < index-1; i++) {
+            curr = curr->next;
+            }
+            curr->next=nullptr;
+            tail = curr;
             size--;
             return;
         }
         Node* curr = head;
-        for (int i = 0; i < index; i++) {
+        for (int i = 0; i < index-1; i++) {
             curr = curr->next;
         }
-        curr->prev->next = curr->next;
-        curr->next->prev = curr->prev;
+        curr->next = curr->next->next;
         size--;
+        return;
     }
 };
 
