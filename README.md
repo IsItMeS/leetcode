@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0412-fizz-buzz) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
