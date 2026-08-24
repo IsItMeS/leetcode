@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1816-truncate-sentence) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3701-compute-alternating-sum](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3731-find-missing-elements) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3731-find-missing-elements](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0881-boats-to-save-people) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
