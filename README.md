@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0881-boats-to-save-people) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
