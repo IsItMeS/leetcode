@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1323-maximum-69-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1323-maximum-69-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
