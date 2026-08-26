@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1816-truncate-sentence) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1323-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
