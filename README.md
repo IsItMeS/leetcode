@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
