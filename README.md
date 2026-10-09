@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0383-ransom-note) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -448,9 +451,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
