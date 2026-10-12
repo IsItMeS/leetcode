@@ -32,10 +32,6 @@ TreeNode* overlap(TreeNode* root1,TreeNode* root2,TreeNode* &root3){
 class Solution {
 public:
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
-        if(root1==NULL && root2!=NULL)
-            return root2;
-        if(root1!=NULL && root2==NULL)
-            return root1;
         TreeNode* root3 =new TreeNode;
         return overlap(root1,root2,root3);
     }
