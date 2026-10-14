@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0796-rotate-string) |
 | [1816-truncate-sentence](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1816-truncate-sentence) |
