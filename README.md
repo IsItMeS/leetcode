@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0881-boats-to-save-people) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0289-game-of-life) |
+| [0766-toeplitz-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
