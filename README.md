@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0289-game-of-life) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
