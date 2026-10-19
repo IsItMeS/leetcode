@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0867-transpose-matrix) |
 | [3701-compute-alternating-sum](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Greedy
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0289-game-of-life) |
 | [0766-toeplitz-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1672-richest-customer-wealth) |
