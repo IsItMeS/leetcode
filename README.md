@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-next-greater-node-in-linked-list](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1051-height-checker) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
