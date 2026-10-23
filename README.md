@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1051-height-checker) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/0697-degree-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3731-find-missing-elements) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3731-find-missing-elements](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/3731-find-missing-elements) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khoslashreya2007-cyber/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
