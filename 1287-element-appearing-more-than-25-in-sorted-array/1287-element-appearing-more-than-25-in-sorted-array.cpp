@@ -7,7 +7,8 @@ public:
             mp[i]++;
         }
         for (auto i : mp) {
-            if (((double)i.second/n) > 0.25) return i.first;
+            if (((double)i.second/n) > 0.25) 
+            return i.first;
         }
         return 0; 
     }
